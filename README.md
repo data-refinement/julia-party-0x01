@@ -22,3 +22,10 @@ WiFi 壁に書いてあります
 [JuliaBox](https://www.juliabox.com)
 
 [勉強会slack](https://data-refinement-invite.herokuapp.com/)
+
+# 来週の候補
+- 今日の続き
+- Mamba.jl チュートリアル, Stan.jl, みどり本外接, 階層ベイズ
+- julia deepleaning パッケージカタログ
+- パッケージング
+- 高速化
