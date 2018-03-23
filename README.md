@@ -13,5 +13,7 @@
 # リポジトリなど
 
 [チュートリアル](https://github.com/data-refinement/juliabox-tutorial/tree/master/intro-to-julia-JA)
+
 [JuliaBox](https://www.juliabox.com)
+
 [勉強会slack](https://data-refinement-invite.herokuapp.com/)
